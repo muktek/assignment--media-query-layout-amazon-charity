@@ -1,4 +1,4 @@
-# Media Query Basics
+# Media Query Basics - Amazon Charity Trust
 
 ## Context
 Amazon Charitable Trust was established to enable local communities in Brazil to implement sustainable business practices that preserve Amazon rain forests. They are looking to build a responsive front-end site that gives a profile of members from the XuXiau Community.
@@ -19,13 +19,13 @@ The breakpoints are:
 ### The mockups
 
 #### Mobile
-![mobile](./mockups/act-mockup-mobile.png)
+![mobile](mockups/act-mockup-mobile.png)
 
 #### Tablet
-![tablet](./mockups/act-mockup-tablet.png)
+![tablet](mockups/act-mockup-tablet.png)
 
 #### Desktop
-![desktop](./mockups/act-mockup-desktop.png)
+![desktop](mockups/act-mockup-desktop.png)
 
 ### The text copy
 <hr/>
