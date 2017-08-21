@@ -19,13 +19,13 @@ The breakpoints are:
 ### The mockups
 
 #### Mobile
-![mobile](./act-mockup-mobile.png)
+![mobile](./mockups/act-mockup-mobile.png)
 
 #### Tablet
-![tablet](./act-mockup-tablet.png)
+![tablet](./mockups/act-mockup-tablet.png)
 
 #### Desktop
-![desktop](./act-mockup-desktop.png)
+![desktop](./mockups/act-mockup-desktop.png)
 
 ### The text copy
 <hr/>
