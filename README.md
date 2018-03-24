@@ -75,6 +75,3 @@ Our "professional diver", the first in the river to fix a damaged propeller, Zez
 ```
 
 <hr/>
-
-### Images `.zip` download
-[download](https://github.com/muktek/assignment--media-query-layout-amazon-charity/blob/master/project-images.zip?raw=true)
