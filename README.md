@@ -1,5 +1,17 @@
 # Media Query Basics - Amazon Charity Trust
 
+## Setup
+```sh
+# (1) navigate to assignments directory:
+cd ~/muktek/assignments
+
+#(2) create the assignment:
+gen-project-scss assignment--media-query-layout-amazon-charity
+
+#(3) download the image files into images directory
+curl https://raw.githubusercontent.com/muktek/assignment--media-query-layout-amazon-charity/master/project-images.zip > project-images.zip
+```
+
 ## Context
 Amazon Charitable Trust was established to enable local communities in Brazil to implement sustainable business practices that preserve Amazon rain forests. They are looking to build a responsive front-end site that gives a profile of members from the XuXiau Community.
 
